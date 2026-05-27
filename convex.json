@@ -1,0 +1,11 @@
+{
+  "functions": "convex/",
+  "node": {
+    "externalPackages": []
+  },
+  "codegen": {
+    "staticApi": false,
+    "staticDataModel": false
+  },
+  "generateCommonJSApi": false
+}
